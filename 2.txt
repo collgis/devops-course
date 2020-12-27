@@ -1,1 +1,2 @@
-hello from another guy
+hello from another guy. 
+This is how we do in git to commit files

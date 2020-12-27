@@ -1,1 +1,2 @@
-And now here we are
+And now here we are with the git pushing concept
+"git push origin master"

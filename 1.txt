@@ -1,5 +1,5 @@
 hello world form collgis
 voila le grand bandit Fankem
-Et ceci est un rafraichissement de mes connaisances en gi apres un lonnng
+Et ceci est un rafraichissement de mes connaisances en git apres un lonnng
 moment d'absence
--je reviens apres apres une longue absence, le 07.12.2021
+Je reviens apres apres une longue absence, le 07.12.2021
